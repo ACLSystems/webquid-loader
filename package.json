@@ -1,0 +1,14 @@
+{
+  "name": "wqloader",
+  "version": "1.0.0",
+  "description": "Carga de archivos para Webquid",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ACL Systems S.A. de C.V.",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}
